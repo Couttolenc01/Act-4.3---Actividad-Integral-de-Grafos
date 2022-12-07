@@ -2,7 +2,7 @@
  * graph.h
  *
  *  Created on: 3/11/2018
- *      Author: 
+ *      Author: pperzm
  */
 
 #ifndef UGRAPH_H_
